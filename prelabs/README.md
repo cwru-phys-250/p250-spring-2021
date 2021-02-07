@@ -1,4 +1,4 @@
-# Labs
+# PreLabs
 
 Contained here are the PreLabs as assigned throughout the semester.
 These will also be available through Canvas.
